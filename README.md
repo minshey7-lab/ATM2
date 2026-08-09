@@ -17,6 +17,6 @@ una previa confirmacion del pin del cliente.
 
 ## Ejecución
 
-Para dar inicio a la ejecucion del programa puede dar click a [CajeroAutomatico.java](../src/CajeroAutomatico.java)
+Para dar inicio a la ejecucion del programa puede dar click a [CajeroAutomatico.java](src/CajeroAutomatico.java)
 Que lo redigira a la clase principal en la cual al momento de ingresa le pedira la clave de acceso y luego de confirmala.
 Puede proseguir con sus consultas ya que le reflejara el menu principal con todas las opciones de consulta.
